@@ -9,6 +9,7 @@
 - [Technologies](#technologies)
 - [Files](#files)
 - [Setup](#setup)
+- [Tables](#tables)
 - [Database Purpose](#database-purpose)
 - [Schema Design](#schema-design)
 - [Example For Song Play Analysis Queries](#example-for-song-play-analysis-queries)
@@ -65,6 +66,14 @@ There are two datasets residing in Local Directory:
 - Run `python3 create_tables.py`
 - Run `etl.py`
 - Open `Analytics.ipynb` and do your analytics
+
+## Tables
+- We have 1 fact table and 4 dimension tables:
+ - `songplays`: Fact table - Contains all logged events related to playing a song
+ - `users`: Dimension table - Contains records of all users
+ - `songs`: Dimension table - Contains records all of all songs
+ - `artists`: Dimension table - Contains records all of all artists
+ - `time`: Dimension table - Contains records all songs played start time
 
 ## Database Purpose
 
