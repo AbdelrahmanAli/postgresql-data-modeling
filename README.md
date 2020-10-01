@@ -1,3 +1,21 @@
+# Data Modeling with PostgreSQL
+
+## Table of contents
+- [Introduction](#introduction)
+- [Project Description](#project-description)
+- [Project Datasets](#project-datasets)
+  * [Song dataset](#song-dataset)
+  * [Log dataset](#log-dataset)
+- [Technologies](#technologies)
+- [Files](#files)
+- [Setup](#setup)
+- [Database Purpose](#database-purpose)
+- [Schema Design](#schema-design)
+- [Example For Song Play Analysis Queries](#example-for-song-play-analysis-queries)
+  * [Top 10 Songs](#top-10-songs)
+  * [Top 10 Artists](#top-10-artists)
+  * [Top 5 active hours of the day](#top-5-active-hours-of-the-day)
+
 ## Introduction
 This project is one of Udacitys Data Engineering Nano Degree projects. It is requested in the 1st course: ***Data Modeling***.
 
