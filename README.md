@@ -73,7 +73,7 @@ There are two datasets residing in Local Directory:
  - `users`: Dimension table - Contains records of all users
  - `songs`: Dimension table - Contains records of all songs
  - `artists`: Dimension table - Contains records of all artists
- - `time`: Dimension table - Contains records songs played start time
+ - `time`: Dimension table - Contains start time for songs played 
 
 ## Database Purpose
 
