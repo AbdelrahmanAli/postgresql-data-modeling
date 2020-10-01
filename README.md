@@ -71,9 +71,9 @@ There are two datasets residing in Local Directory:
 - We have 1 fact table and 4 dimension tables:
  - `songplays`: Fact table - Contains all logged events related to playing a song
  - `users`: Dimension table - Contains records of all users
- - `songs`: Dimension table - Contains records all of all songs
- - `artists`: Dimension table - Contains records all of all artists
- - `time`: Dimension table - Contains records all songs played start time
+ - `songs`: Dimension table - Contains records of all songs
+ - `artists`: Dimension table - Contains records of all artists
+ - `time`: Dimension table - Contains records songs played start time
 
 ## Database Purpose
 
