@@ -17,7 +17,7 @@
   * [Top 5 active hours of the day](#top-5-active-hours-of-the-day)
 
 ## Introduction
-This project is one of Udacitys Data Engineering Nano Degree projects. It is requested in the 1st course: ***Data Modeling***.
+This project is one of Udacity's Data Engineering Nano Degree projects\, it is requested in the 1st course: ***Data Modeling***.
 
 You are required to build a simple ETL pipeline that transfers data from files in two local directories into a set of facts/dimensions tables representing a star in Postgres using Python and SQL.
 
